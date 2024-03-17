@@ -1,0 +1,17 @@
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\net7.0\GradeBook.exe
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\net7.0\GradeBook.deps.json
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\net7.0\GradeBook.runtimeconfig.json
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\net7.0\GradeBook.dll
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\net7.0\GradeBook.pdb
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.csproj.AssemblyReference.cache
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.AssemblyInfo.cs
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.csproj.CopyComplete
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.dll
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\refint\GradeBook.dll
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.pdb
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\GradeBook.genruntimeconfig.cache
+C:\Users\sprze\source\repos\michalkopera1\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\net7.0\ref\GradeBook.dll
